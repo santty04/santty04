@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on IT Globers<br>I'm currently frontend developer<br>I'm like team working
+<br>I'm currently frontend developer<br>I'm like team working
 
 
 ## 🌐 Socials:
